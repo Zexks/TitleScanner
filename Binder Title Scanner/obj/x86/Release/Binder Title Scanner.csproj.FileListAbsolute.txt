@@ -1,0 +1,24 @@
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.Properties.Resources.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Titles.xml
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.frmMain.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Binder Title Scanner.exe.config
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.LiveSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.PackageSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Interop.ZipUnZipObjLib.dll
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.frmTitleManager.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.PackageEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\BTS.ManualEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Binder Title Scanner.exe.manifest
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Release\Binder Title Scanner.application
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\Binder Title Scanner.TrustInfo.xml
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\Binder Title Scanner.exe.manifest
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x86\Release\Binder Title Scanner.application

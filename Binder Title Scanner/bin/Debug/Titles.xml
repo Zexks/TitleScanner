@@ -1,0 +1,122 @@
+﻿<Titles>
+	<Title guid="9466e052-bd68-45dd-b3a5-9ddec9a7dd96" name="Knowledge-Based Audits of Commercial Entities"
+	       version="2009-12-30" year="2009" />
+	<Title guid="c685c7ca-8765-4420-b975-0e671a2005fb" name="Knowledge-Based Audits of Not-for-Profits"
+	       version="2010-01-26" year="2009" />
+	<Title guid="79afd66c-0c5d-45ec-b91e-7a57d8a13fb7" name="Knowledge Based Audits of Employee Benefit Plans"
+	       version="2010-02-25" year="2010" />
+	<Title guid="d5c2bc66-461a-441f-8fc8-2bb8b1e3d5c5" name="Knowledge-Based Construction Contractors"
+	       version="2010-04-13" year="2010" />
+	<Title guid="60903f26-ec6b-4b96-b755-00e77418ef75" name="Knowledge-Based Audits of Governmental Entities"
+	       version="2010-05-18" year="2010" />
+	<Title guid="300dbb2a-f725-49a4-8202-894498659faa" name="Knowledge-Based Compilations 1.5.18" version="2011-01-26"
+	       year="2010" />
+	<Title guid="38ee961e-c993-4446-a582-23475fc735eb" name="Knowledge-Based Audits of Commercial Entities"
+	       version="2010-08-26" year="2010" />
+	<Title guid="51c2aaf7-5e43-4be0-997e-64fa8690b64e" name="Knowledge-Based Audits of Financial Institutions"
+	       version="2010-11-30" year="2010" />
+	<Title guid="8e18970b-9fbf-447e-82bc-6c1635b19917" name="Knowledge-Based Audits of Health Care Entities"
+	       version="2010-12-30" year="2010" />
+	<Title guid="b84ea400-c9bc-4737-b3d9-65a6089f5c28" name="Knowledge-Based Audits of Not-for-Profits"
+	       version="2010-11-16" year="2010" />
+	<Title guid="5201ab8c-ce93-405d-a99d-8f94966e92d8" name="Knowledge-Based Audits of PCAOB Entities"
+	       version="2010-09-27" year="2010" />
+	<Title guid="b2ab5c4d-0fe4-465c-9f7a-de984d5f3ed6" name="Knowledge-Based Audits of Real Estate Entities"
+	       version="2010-10-20" year="2010" />
+	<Title guid="7f3a982b-f82a-4d44-88ab-b13dc163671c" name="Knowledge-Based Single Audits" version="2010-08-06"
+	       year="2010" />
+	<Title guid="c946584e-b49b-4b45-ad20-5bd48cebbbc2" name="Knowledge-Based Audits of Governmental Entities"
+	       version="2011-08-08" year="2011" />
+	<Title guid="4f61014c-fcd5-48a0-bec4-c2b8dca82920" name="Knowledge-Based Audits of Commercial Entities"
+	       version="2011-02-11" year="2011" />
+	<Title guid="2e4f325e-7665-4e62-bf1c-2fb416f3087d" name="Knowledge-Based Audits of Not-for-Profits"
+	       version="2011-08-16" year="2011" />
+	<Title guid="49730a3f-e1c3-43c4-92eb-f56d53c87239" name="Knowledge-Based Single Audits" version="2011-05-25"
+	       year="2011" />
+	<Title guid="dd1ccf47-abbd-4a95-b0a6-3c28b8f1d331" name="Knowledge-Based Construction Contractors"
+	       version="2011-05-09" year="2011" />
+	<Title guid="897655ce-7acf-48b9-9dd9-ef9a5d38bf19" name="Knowledge Based Audits of Employee Benefit Plans"
+	       version="2011-04-01" year="2011" />
+	<Title guid="6258430a-636c-4729-8523-b636a70b3cea" name="Knowledge-Based Audits of International Entities"
+	       version="2011-04-15" year="2011" />
+	<Title guid="d9a638cd-1fee-4888-ada0-29d01a2c886d" name="Knowledge-Based Audits of PCAOB Entities"
+	       version="2011-07-27" year="2011" />
+	<Title guid="f4c77826-7a2a-4ffb-b58d-f5078d1e55a3" name="Knowledge-Based Reviews" version="2011-01-26" year="2010" />
+	<Title guid="68d8024c-818f-4752-840e-4a0996eea0c0"
+	       name="Knowledge-Based Audits of Common Interest Realty Associations" version="2011-11-16" year="2011" />
+	<Title guid="6f68f01f-b182-4333-87ad-fc607216faf7" name="Knowledge-Based Audits of Health Care Entities"
+	       version="2011-12-30" year="2011" />
+	<Title guid="d6e5e8d3-57d1-49fe-a6c2-de94c9ed7874" name="Knowledge-Based Audits of Real Estate Entities"
+	       version="2011-10-20" year="2011" />
+	<Title guid="623e816e-29b1-4253-b6a1-1161b837ff43"
+	       name="Knowledge-Based Compilations of Common Interest Realty Associations" version="2011-11-20" year="2011" />
+	<Title guid="131d3012-9fd4-41b8-8e36-323f1fbbf7bd" name="Knowledge-Based Compilations" version="2011-12-07"
+	       year="2011" />
+	<Title guid="dc8a0a95-31d0-4538-a8cb-2c510b338f93"
+	       name="Knowledge -Based Non-Traditional Engagements - Agreed Upon Procedures" version="2011-09-23" year="2011" />
+	<Title guid="c9ba2da3-4dc0-4f27-bbfd-22e3ea5cb39e" name="Knowledge -Based Non-Traditional Engagements - Compilations"
+	       version="2011-09-23" year="2011" />
+	<Title guid="d78d659a-3e93-4276-a5a7-2eba13ce0736" name="Knowledge -Based Non-Traditional Engagements - Consulting"
+	       version="2011-09-23" year="2011" />
+	<Title guid="fdfeeca7-9651-466a-9a53-cdff86bb5a5a" name="Knowledge -Based Non-Traditional Engagements - Examinations"
+	       version="2011-09-23" year="2011" />
+	<Title guid="fc77e0e9-41a5-4885-8dca-b69a7c7d5e2d" name="Knowledge -Based Non-Traditional Engagements - Reviews"
+	       version="2011-09-23" year="2011" />
+	<Title guid="579c074e-82b6-4cc9-999f-edbc1eda63b5"
+	       name="Knowledge-Based Reviews of Common-Interest Realty Associations" version="2011-11-20" year="2011" />
+	<Title guid="7b88096b-7639-469f-be74-e52b2feb5fe4" name="Knowledge-Based Audits of Commercial Entities for KC 1.8"
+	       version="2012-01-23" year="2011" />
+	<Title guid="bff51ac0-9ddb-48eb-a54d-0b835e63348d" name="Knowledge-Based Audits of Financial Institutions"
+	       version="2011-10-24" year="2011" />
+	<Title guid="cda47214-c551-4042-b445-7dfbf0132709" name="Knowledge-Based Reviews" version="2011-12-07" year="2011" />
+	<Title guid="befe416f-4957-4df1-af44-e6fbb1bbbcda" name="Knowledge-Based Audits of Governmental Entities"
+	       version="2012-07-09" year="2012" />
+	<Title guid="df3033af-98b5-4235-8aba-3d27651dd8e5" name="Knowledge-Based Single Audits" version="2012-06-08"
+	       year="2012" />
+	<Title guid="d5af3d89-c0bf-4b02-9b98-f09ee43c03b6" name="Knowledge -Based Non-Traditional Engagements - Consulting"
+	       version="2012-03-30" year="2012" />
+	<Title guid="08521f10-d561-4975-8051-66886b3ebe14" name="Knowledge -Based Non-Traditional Engagements - Reviews"
+	       version="2012-03-30" year="2012" />
+	<Title guid="b3b3c120-9d82-4c40-a9d2-294775dac5c1" name="Knowledge -Based Non-Traditional Engagements - Examinations"
+	       version="2012-03-30" year="2012" />
+	<Title guid="02706c2c-901c-4a31-8042-d4ba73462da0"
+	       name="Knowledge -Based Non-Traditional Engagements - Agreed Upon Procedures" version="2012-03-30" year="2012" />
+	<Title guid="dc6ca0e7-9791-47fc-ad39-69c30f8a610b" name="Knowledge-Based Construction Contractors"
+	       version="2012-02-20" year="2012" />
+	<Title guid="8490dc79-f623-4568-bed9-e5a4187bec50" name="Knowledge -Based Non-Traditional Engagements - Compilations"
+	       version="2012-03-30" year="2012" />
+	<Title guid="449904a3-c59d-47f2-8867-c5419b437963" name="Knowledge-Based Audits of Commercial Entities for KC 1.8 v2"
+	       version="2012-02-24" year="2011" />
+	<Title guid="21c9630d-dd9c-41d7-a180-7be443726631" name="Knowledge Based Audits of Employee Benefit Plans"
+	       version="2012-02-13" year="2012" />
+	<Title guid="c970e1b2-29d5-4218-a2b7-6613a9268bcc"
+	       name="Knowledge-Based Audits of HUD Multifamily Housing – Financial Statement" version="2012-09-25" year="2012" />
+	<Title guid="c642125e-c409-4b17-95d7-0653a7510982" name="Knowledge-Based Audits of Not-for-Profits-Clarified"
+	       version="2012-12-05" year="2012" />
+	<Title guid="67aebc00-95f2-4b52-87a3-9f41d56a4094"
+	       name="Knowledge-Based Audits of Common Interest Realty Associations" version="2012-08-30" year="2012" />
+	<Title guid="47026636-2a5a-4b61-b6a0-ed4554cf94ce" name="Knowledge-Based Audits of Health Care Entities"
+	       version="2012-11-07" year="2012" />
+	<Title guid="36e10777-9011-4fa1-ade4-6ff83c58441c" name="Knowledge-Based Single Audits Clarified" version="2012-11-15"
+	       year="2012" />
+	<Title guid="3f405660-a5bc-4733-ac15-49bac4612f81" name="Knowledge-Based Audits of Governmental Entities-Clarified"
+	       version="2012-12-15" year="2012" />
+	<Title guid="c649af9e-f225-4253-a6d5-4511467c7752" name="Knowledge-Based Audits of International Entities"
+	       version="2013-01-02" year="2013" />
+	<Title guid="cb691845-b79a-461d-a2f4-c25da1b799d8"
+	       name="Knowledge-Based Audits of HUD Multifamily Housing – Compliance" version="2012-09-25" year="2012" />
+	<Title guid="2a36ef67-bcf1-4701-b2cb-bc283b1e1f92" name="Knowledge-Based Audits of Commercial Entities 1.11.121"
+	       version="2012-08-08" year="2012" />
+	<Title guid="632db06d-9263-4e4e-9efd-46cc70a08c90" name="Knowledge Based Audits of Employee Benefit Plans - Clarified"
+	       version="2012-12-14" year="2012" />
+	<Title guid="862e86f2-7a06-44ba-aad6-8319b6d5ad40"
+	       name="Knowledge -Based Non-Traditional Engagements - Agreed Upon Procedures" version="2013-03-18" year="2013" />
+	<Title guid="48067dfa-378e-4175-992d-0f01e0e88912" name="Knowledge -Based Non-Traditional Engagements - Compilations"
+	       version="2013-03-18" year="2013" />
+	<Title guid="e62e16b3-a3ad-4bc3-a2ab-e4fb32078f53" name="Knowledge -Based Non-Traditional Engagements - Consulting"
+	       version="2013-03-18" year="2013" />
+	<Title guid="8e2e7677-3e70-4905-ad4d-7e83f68c7492" name="Knowledge -Based Non-Traditional Engagements - Reviews"
+	       version="2013-03-18" year="2013" />
+	<Title guid="210856d7-ba11-4b5e-ae18-cad9cee0e97a" name="Knowledge -Based Non-Traditional Engagements - Examinations"
+	       version="2013-03-18" year="2013" />
+</Titles>

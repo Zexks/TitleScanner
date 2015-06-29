@@ -1,0 +1,38 @@
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\Binder Title Scanner.exe.config
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\Titles.xml
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.frmMain.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.ManualEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.PackageEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.Properties.Resources.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.LiveSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\ZipForge.dll
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\Debug\ZipForge.xml
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.SQLLocation.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.frmTitle.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.frmTitleMgr.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\Binder Title Scanner.csprojResolveAssemblyReference.cache
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\Binder Title Scanner.csproj.GenerateResource.Cache
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\Debug\BTS.frmProgress.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\Binder Title Scanner.exe.config
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\Titles.xml
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\ZipForge.dll
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\bin\Debug\ZipForge.xml
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.Forms.FormProgress.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.Forms.FormTitle.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.Forms.FormMain.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.UserControls.ManualEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.Forms.FormTitleMgr.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.UserControls.PackageEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.Properties.Resources.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.UserControls.LiveSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\BTS.UserControls.SQLLocation.resources
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\Binder Title Scanner.csproj.GenerateResource.Cache
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2012\Projects\Binder Title Scanner - After Refactoring\Binder Title Scanner\obj\Debug\Binder Title Scanner.csprojResolveAssemblyReference.cache

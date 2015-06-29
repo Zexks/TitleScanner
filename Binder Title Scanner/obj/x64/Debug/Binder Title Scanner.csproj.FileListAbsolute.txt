@@ -1,0 +1,18 @@
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\Binder Title Scanner.exe.config
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\Titles.xml
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.frmTitleManager.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.frmMain.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.ManualEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.PackageEntry.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.Properties.Resources.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.LiveSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\BTS.PackageSet.resources
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\Binder Title Scanner.exe
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\obj\x64\Debug\Binder Title Scanner.pdb
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\ZipForge.dll
+C:\Users\jon.reed\Documents\Visual Studio 2010\Projects\Binder Title Scanner\Binder Title Scanner\bin\x64\Debug\ZipForge.xml
